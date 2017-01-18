@@ -5,4 +5,4 @@ Camera, Servo, and Microcontroller needed
 
 Download OpenCV, JavaFX, and RXTX to the eclipse library
 
-Demo: https://github.com/rfpatia/Ball-Tracking-Device.git
+Demo: https://youtu.be/HmjGiB3AOQI
